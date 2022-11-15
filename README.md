@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Robert Rodau
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning 2D vision and deep learning, operating systems, frontend web development
+- 🌱 I’m currently learning Data Mining, Machine Learning, Operating Systems, Web Development
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rrodau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
